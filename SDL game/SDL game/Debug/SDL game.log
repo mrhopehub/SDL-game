@@ -1,36 +1,9 @@
-﻿生成启动时间为 2014/7/20 16:30:27。
-     1>项目“D:\git-dir\SDL-game\SDL game\SDL game\SDL game.vcxproj”在节点 2 上(build 个目标)。
-     1>InitializeBuildStatus:
-         正在创建“Debug\SDL game.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-       ClCompile:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2_image-2.0.0\include" /I"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2-2.0.3\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt LTexture.cpp main.cpp Point.cpp
-         Point.cpp
-         main.cpp
-         LTexture.cpp
-         正在生成代码...
-       ManifestResourceCompile:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SDL game.exe.embed.manifest.res" "Debug\SDL game_manifest.rc" 
-       Link:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2-2.0.3\lib\x86" /LIBPATH:"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2_image-2.0.0\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SDL game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.lib" /MACHINE:X86 "Debug\SDL game.exe.embed.manifest.res"
-         Debug\LTexture.obj
-         Debug\main.obj
-         Debug\Point.obj
-     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
-       Manifest:
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\SDL game.exe.embed.manifest" /manifest "Debug\SDL game.exe.intermediate.manifest"
-         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\SDL game.exe.embed.manifest.res" "Debug\SDL game_manifest.rc" 
-       LinkEmbedManifest:
-         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2-2.0.3\lib\x86" /LIBPATH:"D:\git-dir\SDL-game\SDL game\SDL game\\SDL2_image-2.0.0\lib\x86" SDL2.lib SDL2main.lib SDL2_image.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\SDL game.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\git-dir\SDL-game\SDL game\Debug\SDL game.lib" /MACHINE:X86 "Debug\SDL game.exe.embed.manifest.res"
-         Debug\LTexture.obj
-         Debug\main.obj
-         Debug\Point.obj
-     1>MSVCRTD.lib(cinitexe.obj) : warning LNK4098: 默认库“msvcrt.lib”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
-         SDL game.vcxproj -> D:\git-dir\SDL-game\SDL game\Debug\SDL game.exe
-       FinalizeBuildStatus:
-         正在删除文件“Debug\SDL game.unsuccessfulbuild”。
-         正在对“Debug\SDL game.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“D:\git-dir\SDL-game\SDL game\SDL game\SDL game.vcxproj”(build 个目标)的操作。
+﻿生成启动时间为 2014/7/20 16:34:35。
+     1>项目“D:\git-dir\SDL-game\SDL game\SDL game\SDL game.vcxproj”在节点 2 上(clean 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\SDL game.lastbuildstate”。
+     1>已完成生成项目“D:\git-dir\SDL-game\SDL game\SDL game\SDL game.vcxproj”(clean 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:02.82
+已用时间 00:00:00.04
